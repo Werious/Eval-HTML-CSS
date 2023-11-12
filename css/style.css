@@ -1,0 +1,316 @@
+@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/l?subset_id=2&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/d?subset_id=2&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/a?subset_id=2&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/23e139/00000000000000007735e605/30/l?subset_id=2&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/23e139/00000000000000007735e605/30/d?subset_id=2&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/23e139/00000000000000007735e605/30/a?subset_id=2&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/l?subset_id=2&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/d?subset_id=2&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/a?subset_id=2&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/2555e1/00000000000000007735e603/30/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/2555e1/00000000000000007735e603/30/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/2555e1/00000000000000007735e603/30/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/144da4/00000000000000007735e619/30/l?subset_id=2&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/144da4/00000000000000007735e619/30/d?subset_id=2&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/144da4/00000000000000007735e619/30/a?subset_id=2&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:adobe-garamond-pro;src:url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:noto-sans;src:url(https://use.typekit.net/af/74b049/00000000000000007735b97f/30/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/74b049/00000000000000007735b97f/30/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/74b049/00000000000000007735b97f/30/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:noto-sans;src:url(https://use.typekit.net/af/dde969/00000000000000007735b995/30/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/dde969/00000000000000007735b995/30/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/dde969/00000000000000007735b995/30/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:noto-sans;src:url(https://use.typekit.net/af/34c58e/00000000000000007735b983/30/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/34c58e/00000000000000007735b983/30/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/34c58e/00000000000000007735b983/30/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:noto-sans;src:url(https://use.typekit.net/af/044d9a/00000000000000007735b99b/30/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/044d9a/00000000000000007735b99b/30/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/044d9a/00000000000000007735b99b/30/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}
+
+*{
+    margin: 0;
+    font-family: proxima-nova;
+    position: relative;
+    z-index: 2;
+}
+
+body{
+    z-index: -2;
+    width: 100%;
+    background: url("../images/header-background.png") no-repeat top center fixed;
+    background-image: linear-gradient(to bottom, rgba(4, 4, 4, 0.52), rgba(55, 110, 111, 0.378)),
+    url("../images/header-background.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    z-index: 1;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.header img{
+    width: 10%;
+}
+
+#titre{
+    margin-top: 15%;
+    color: white;
+    font-size: 300%;
+}
+
+#titre_phone{
+    display: none;
+}
+
+/* Nav Bar START */
+
+.toggle_side{
+    display: none;
+    visibility: hidden;
+}
+
+.toggle_drop{
+    display: none;
+    visibility: hidden;
+}
+
+nav{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(243, 247, 252);
+    font-weight: 600;
+    font-size: 130%;
+    margin: 1%;
+}
+
+nav .discord{
+    border: 3px solid white;
+    color: white;
+}
+
+nav .discord:hover{
+    color: black;
+    background-color: white;
+}
+
+#icon{
+    display: none;
+}
+
+#dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    text-align: start;
+    background-color: rgb(254, 247, 238);
+    min-width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    font-size: large;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: rgba(187, 182, 176, 0.577);}
+
+#dropdown:hover .dropdown-content {display: block;}
+
+/*Nav Bar END*/
+
+main{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    height: 90%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main .titre{
+    display: flex;
+    align-items: center;
+    height: 20%;
+    text-align: center;
+}
+
+main .p{
+    text-align: center;
+    width: 100%;
+}
+
+main .img{
+    background-image: url('../images/area_render.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60%;
+    width: 100%;
+}
+
+.prefooter{
+    text-align: center;
+    background-color:  rgb(254, 247, 238);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#faq{
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.discord{
+    color: black;
+    border: 3px solid black;
+    border-radius: 5em;
+    padding: 0.5em;
+    width: 9em;
+    text-align: center;
+    position: relative;
+    z-index: -1;
+}
+
+.discord:hover{
+    color: white;
+    background-color: black;
+    transition: 0.3s;
+}
+
+footer{
+    background-color: rgb(5, 0, 20);
+    color: rgb(160, 164, 169);
+    font-family: proxima-nova;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+footer p{
+    text-align: center;
+}
+
+/*-------------Responsive------------*/
+
+@media (max-width: 900px){
+
+    body{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    header{
+        height: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #titre{
+        display: none;
+    }
+
+    #titre_phone{
+        display: block;
+        color: white;
+        font-size: 5vw;
+    }
+
+    nav{
+        display: none;
+    }
+
+    #icon {
+        margin-right: 1em;
+        display: flex;
+    }
+
+    .fixed{
+        margin-top: -55px;
+        right: 245px;
+    }
+
+    #sidenav{
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        width: 240px;
+        text-align: left;
+        overflow: auto;
+        background-color: #212121;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navigation{
+        margin-top: 5%;
+        width: 75%;
+        display: block;
+        line-height: 3em;
+    }
+
+    #side_discord_btn{
+        color: white;
+        border: 3px solid white;
+        border-radius: 5em;
+        padding: 0.5em;
+        font-size: 1.2em;
+        text-align: center;
+        position: relative;
+    }
+
+    #side_discord_btn:hover{
+        color: black;
+        background-color: white;
+        transition: 0.3s;
+    }
+
+    .side_discord{
+        margin-top: 2em;
+        width: 80%;
+    }
+
+    #side_dropdown :not(.toggle_drop){
+        margin-left: 15%;
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+    }
+
+    #side_dropdown a{
+        margin-top: 0.7em;
+    }
+
+    #side_dropdown a{
+        font-size: 1em;
+    }
+
+    main{height: 60%;}
+
+    .main{width: 80%;}
+
+    .prefooter{height: 15%;}
+
+    #faq{font-size: 5vw;}
+
+    .discord{font-size: 3vw;}
+
+    footer{height: 10%;}
+}
